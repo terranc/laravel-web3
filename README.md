@@ -24,7 +24,7 @@ If you are using your application in your day-to-day job, on presentation demos,
 You can install the package via composer:
 
 ```bash
-composer require renoki-co/laravel-web3 --ignore-platform-reqs
+composer require terranc/laravel-web3 --ignore-platform-reqs
 ```
 
 Publish the config:
